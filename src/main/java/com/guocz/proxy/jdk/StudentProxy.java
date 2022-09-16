@@ -1,4 +1,4 @@
-package com.guocz.proxy;
+package com.guocz.proxy.jdk;
 
 /**
  * @author guocz
@@ -21,8 +21,10 @@ public class StudentProxy implements Person{
     public void giveMoney() {
 
         // 静态代理
+        // 前置处理
         System.out.println("代理说：张三最近学习有进步！");
         student.giveMoney();
+        // 后置处理
         System.out.println("代理结束");
     }
 }

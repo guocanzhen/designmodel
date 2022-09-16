@@ -1,4 +1,4 @@
-package com.guocz.proxy;
+package com.guocz.proxy.jdk;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -6,6 +6,8 @@ import java.lang.reflect.Method;
 /**
  * @author guocz
  * @date 2022/9/1 15:36
+ *
+ * 实现InvocationHandler定义调用者。
  */
 public class StuInvocationHandler<T> implements InvocationHandler {
 

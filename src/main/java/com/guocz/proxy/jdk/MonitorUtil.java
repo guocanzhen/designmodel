@@ -1,4 +1,4 @@
-package com.guocz.proxy;
+package com.guocz.proxy.jdk;
 
 /**
  * @author guocz
