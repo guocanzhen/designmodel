@@ -1,7 +1,4 @@
-package com.guocz;
-
-import com.guocz.factorymethod.AbstractFactory;
-import com.guocz.factorymethod.AppleFactory;
+package com.guocz.factorymethod;
 
 /**
  * @author guocz

@@ -1,13 +1,4 @@
-package com.guocz;
-
-import com.guocz.single.EnumSingleton;
-import com.guocz.single.HungrySingleton;
-
-import java.io.*;
-import java.lang.reflect.Constructor;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+package com.guocz.single;
 
 /**
  * @author guocz

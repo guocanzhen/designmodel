@@ -1,4 +1,4 @@
-package com.guocz;
+package com.guocz.simplefactory;
 
 import com.guocz.factorydomain.Phone;
 import com.guocz.simplefactory.PhoneFactory;
